@@ -1,0 +1,28 @@
+
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.box{
+    
+    width:30rem;
+    background-color: rgb(54, 85, 85);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 10px 10px grey;
+}
+#countLabel{
+    font-size: 100px;
+    color: rgb(21, 33, 33);
+}
+.btn{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    background-color:rgb(36, 58, 58);
+}
