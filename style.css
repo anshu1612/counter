@@ -25,6 +25,11 @@ body{
     margin: 5px;
     color: white;
     background-color:rgb(36, 58, 58);
+    transform: background-color 0.3s ease-in;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(67, 103, 103);
 }
 
 .hidden{
